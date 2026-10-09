@@ -1,18 +1,7 @@
-## Getting Started
+Ini adalah repository pertama saya
+Nama  :Fariz Farhat
+Nim   :264107020226
+Kelas :TI-1F
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Absensi (p) = 10
+hargaPerCup = RP.19000 <- 15000 + ( 10 mod 6 ) x 1000 syarat minimal Belanja untuk diskon = Rp.110000 <- 80000 + (10 mod 5) x 10000 Presentase Diskon = 9% <- 5 + (10 Mod 6) %

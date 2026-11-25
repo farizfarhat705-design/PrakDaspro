@@ -8,9 +8,12 @@ public static SIAKAD10 {
 
         for (int i = 0; i < nilai.length; i++) {
              System.out.println("Input nilai mahasiswa ke-" + (i + 1));
+             double totalPerSiswa = 0 ;
 
              for (int j = 0; j < nilai[i].length; j++) {
                 System.out.print("Nilai mata kuliah " + (j + 1) + ": ");
                 nilai[i][j] = Fariz.nextInt();
+                totalPerSiswa += nilai[i][j];
     }
+    System.out.println("Nilai Rata Rata :" + totalPerSiswa / nilai[i].length);
 }
